@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:anvil": 1,
+      "minecraft:enchanting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 2853,
+      "minecraft:time_since_rest": 4573,
+      "minecraft:walk_one_cm": 1093,
+      "minecraft:total_world_time": 4573,
+      "minecraft:leave_game": 6,
+      "minecraft:fly_one_cm": 15164,
+      "minecraft:interact_with_anvil": 1,
+      "minecraft:play_time": 4573,
+      "minecraft:jump": 49,
+      "minecraft:enchant_item": 1,
+      "minecraft:time_since_death": 4573
+    }
+  },
+  "DataVersion": 4790
+}

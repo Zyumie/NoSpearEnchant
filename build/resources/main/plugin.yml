@@ -1,0 +1,6 @@
+name: NoSpearEnchant
+version: '1.0.1'
+main: fr.zyumie.nospearenchant.Main
+api-version: '26.1.2'
+authors: [ Zyumie ]
+website: https://www.youtube.com/@AyanoBrz
